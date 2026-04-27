@@ -12,7 +12,7 @@
 Este repositório contém meus exercícios e projetos focados em desenvolvimento Web, Meu objetivo é dominar a criação de interfaces modernas e responsivas para entregar projetos freelancers de alta qualidade.
 
 ## 📂 O que você vai encontrar aqui?
-Até agora, organizei os seguintes módulos:
+Os seguintes módulos:
 *   **exercicio_001:** Descrição breve (ex: primeiro codigo).
 *   **exercicio_002:** Descrição breve (ex: parágrafo e quabra de linha).
 *   **exercicio_003:** Descrição breve (ex: símbolos e emojis).
