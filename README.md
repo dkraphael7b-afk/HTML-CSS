@@ -1,5 +1,7 @@
 <div align="center">
-<img width="85%" alt="hec600" src="https://github.com/user-attachments/assets/a69bb85e-58fd-4412-b534-40bc24e6220c" />
+<img width="85%" alt="1000px" src="https://github.com/user-attachments/assets/7dbbebee-6ffc-456e-87fb-9e0d8be4082a" />
+
+
 
 
   # 🚀 Estudos de HTML5 e CSS3
