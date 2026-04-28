@@ -23,7 +23,8 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_001:** Estrutura base de um documento HTML5.
 * **exercicio_002:** Parágrafos, quebras de linha e organização textual.
 * **exercicio_003:** Símbolos, emojis e caracteres especiais.
-* **exercicio_004:** Métodos de adicão de imagem.
+* **exercicio_004:** Métodos de adicão de imagem e favicon.
+* **exercicio_004:** Hierarquia de texto e aplicando todos os aprendizados
 
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
