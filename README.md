@@ -1,5 +1,6 @@
 <div align="center">
-<img width="85%" alt="curso-de-html-css" src="https://github.com/user-attachments/assets/0a90e86f-5f43-41c6-9cc0-d88199144817" />
+<img width="85%" alt="hec600" src="https://github.com/user-attachments/assets/a69bb85e-58fd-4412-b534-40bc24e6220c" />
+
 
   # 🚀 Estudos de HTML5 e CSS3
   
@@ -20,7 +21,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_001:** Estrutura base de um documento HTML5.
 * **exercicio_002:** Parágrafos, quebras de linha e organização textual.
 * **exercicio_003:** Símbolos, emojis e caracteres especiais.
-* **exercicio_004:** Adição de imagens.
+* **exercicio_004:** Métodos de adicão de imagem.
 
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
