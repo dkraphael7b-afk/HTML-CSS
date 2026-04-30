@@ -25,7 +25,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_003:** Símbolos, emojis e caracteres especiais.
 * **exercicio_004:** Métodos de adição de imagem e favicon.
 * **exercicio_005:** Hierarquia de texto e aplicando aprendizados
-* **exercicio_006:** Simântica
+* **exercicio_006:** Tags simânticas e como usá-las
 
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
