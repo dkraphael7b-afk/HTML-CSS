@@ -24,8 +24,9 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_002:** Parágrafos, quebras de linha e organização textual.
 * **exercicio_003:** Símbolos, emojis e caracteres especiais.
 * **exercicio_004:** Métodos de adição de imagem e favicon.
-* **exercicio_005:** Hierarquia de texto e aplicando aprendizados
-* **exercicio_006:** Tags simânticas e como usá-las
+* **exercicio_005:** Hierarquia de texto e aplicando aprendizados.
+* **exercicio_006:** Tags simânticas e como usá-las.
+* **exercicio_007:** Lista no HTML5 e seus tipos.
 
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
