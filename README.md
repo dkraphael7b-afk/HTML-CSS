@@ -27,6 +27,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_005:** Hierarquia de texto e aplicando aprendizados.
 * **exercicio_006:** Tags simânticas e como usá-las.
 * **exercicio_007:** Lista no HTML5 e seus tipos.
+* **exercicio_008:** Ligações internas, externas e download.
 
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
