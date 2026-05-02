@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Icons do projeto/favicon.ico" type="image/x-icon">
+    <title>Midias adaptaveis</title>
+</head>
+<body>
+    <h1>Testes de mídias adaptáveis</h1>
+    <p>Teste as mídias em dispositivos diferentes ou aumentando e diminuindo a tela</p>
+
+    <h2>Testando fotos</h2>
+    <p>Lembre-se, começe pela foto pequena ou grande, pois são a base para montar o resto dos source, e sempre coloque o px de acordo com o tamanho do arquivo.</p>
+    <picture>
+        <source media="(max-width: 750px )" srcset="imagens/fotoP.png" type="image/png">
+        <source media="(max-width: 1050px )" srcset="imagens/fotoM.png" type="image/png">
+        <img src="imagens/fotoG.png" alt="img-flexivel">
+    </picture>
+
+    <h2>Testando midias</h2>
+    <audio preload="metadata" controls autoplay>
+        <source src="midia/I Don't Think So - The Soundlings.mp3" type="audio/mp3">
+        <source src="midia/I Don't Think So - The Soundlings.ogg" type="audio/ogg">
+        <p>Nessa linha podemos colocar o link do arquivo.mp3 , pois as opções a cima são como um tipo de se e senão, e essa linha é para o caso dos source não carregarem.</p>
+    </audio>
+
+    <h2>Testando video internos</h2>
+    <video width="560" height="360" poster="videos internos/pexels-dacapture-19359933.jpg" controls autoplay>
+        <source src="videos internos/video-mp4.mp4" type="video/mp4">
+        <source src="videos internos/video-webm.webm" type="video/webm">
+    </video>
+
+    <h2>Testando videos externos</h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/i7L19SOqbNM?si=CagahubWG4zpK5gl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
