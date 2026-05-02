@@ -29,6 +29,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_007:** Lista no HTML5 e seus tipos.
 * **exercicio_008:** Ligações internas, externas e download.
 * **exercicio_009:** Desafio social.
+* **exercicio_010:** Vídeos, foto dinamica, e áudio
   
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
