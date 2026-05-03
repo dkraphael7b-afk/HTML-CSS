@@ -31,7 +31,8 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_009:** Desafio social.
 * **exercicio_010:** Vídeos, foto dinamica, e áudio
 * **exercicio_011:** Um site com vídeos.
-* **Projetos e Boas Práticas**
+  
+**Projetos e Boas Práticas**
 * **projeto_teste_01:** Apresentação social.
 * **projeto_teste_02:** Minicanal de notícias.
 
