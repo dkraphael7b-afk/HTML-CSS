@@ -30,6 +30,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_008:** Ligações internas, externas e download.
 * **exercicio_009:** Desafio social.
 * **exercicio_010:** Vídeos, foto dinamica, e áudio
+* **exercicio_011:** Um site com vídeos.
   
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
