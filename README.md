@@ -31,11 +31,14 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_009:** Desafio social.
 * **exercicio_010:** Vídeos, foto dinamica, e áudio
 * **exercicio_011:** Um site com vídeos.
+
+### 📘 Módulo 2 — Design Web: Estilização Avançada e Projetos Reais
+* **exercicio_012:** 
   
 **Projetos e Boas Práticas**
 * **projeto_teste_01:** Apresentação social.
 * **projeto_teste_02:** Minicanal de notícias.
-* **projeto_teste_02:** Minicanal com novas funcionalidades
+* **projeto_teste_03:** Minicanal com novas funcionalidades
 
 Obs: Todos os projetos são sendo feitos somente com HTML  
   
