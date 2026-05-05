@@ -32,6 +32,12 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 * **exercicio_010:** Vídeos, foto dinamica, e áudio
 * **exercicio_011:** Um site com vídeos.
   
+**Projetos e Boas Práticas**
+* **projeto_teste_01:** Apresentação social.
+* **projeto_teste_02:** Minicanal de notícias.
+
+Obs: Todos os projetos são sendo feitos somente com HTML  
+  
 ## 🛠️ Ferramentas utilizadas
 * Visual Studio Code
 * Google Chrome
