@@ -35,6 +35,7 @@ Aqui estão os módulos e conteúdos que acompanham minha evolução:
 **Projetos e Boas Práticas**
 * **projeto_teste_01:** Apresentação social.
 * **projeto_teste_02:** Minicanal de notícias.
+* **projeto_teste_02:** Minicanal com novas funcionalidades
 
 Obs: Todos os projetos são sendo feitos somente com HTML  
   
